@@ -1,2 +1,3 @@
-# wcs_github-actions-quest-2
-Repo public de la quête 2 sur les GitHub Actions
+# Quest 1729
+
+Launch the app with the following command: `docker-compose -f docker-compose.dev.yml up --build`
