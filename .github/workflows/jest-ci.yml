@@ -33,4 +33,4 @@ jobs:
         with:
           push: true
           context: "{{defaultContext}}:client"
-          tags: quentinbruyere/quete1902:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/quete1902:latest
